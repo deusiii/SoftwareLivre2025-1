@@ -30,11 +30,13 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Participar de Organização ou Evento (0)
 
-## Produção de Conteúdo Audiovisual ou Série de Posts (3)
+## Produção de Conteúdo Audiovisual ou Série de Posts (5)
 
 - Tutorial de instalação do Neovim para Windows. ([YouTube](https://youtu.be/Zj2KCDz4p1I)). Felipe Silva
 - Tutorial básico de utilização do Neovim. ([YouTube](https://youtu.be/VH-XSRFzQW4)). Felipe Silva
 - Demonstração do plug-in de vídeos para o Neovim. ([YouTube](https://youtu.be/5SkfxnXbDtI)). [Pedro Julius](https://github.com/Pedro-SousaM)
+-  Passo a passo do Download do LibreOffice : ([YouTube](https://youtu.be/EhDYmniA0mE)). - Deusiane
+-  Guia Prático do LibreOffice Calc: ([Canva](https://www.canva.com/design/DAGpVO-VoAk/a5tyPQ2k5WEDyykldLI-ig/view?utm_content=DAGpVO-VoAk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07c2950ab7)). - Deusiane
 
 ## Desenvolvimento de Script ou Ferramenta Auxiliar (1)
   - Macro em Python para o LibreOffice Calc que converte Riot points do jogo League of Legends (RP) em Reais (BRL), com base em uma taxa de conversão média. ([Página no LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/99411) - [@rudneyggf](https://github.com/rudneyggf))
